@@ -1,0 +1,2 @@
+# DSN-AI-OAU-July-Challenge
+A 3rd place solution for the July edition challenge. The objective of the challenge is to predict sales of specific product types at different supermarket. Based on the analysis, the chairman of the company, Mr. Chukwudi, will understand the key characteristics of products and supermarkets driving sales and be better informed on an optimal template for its planned expansion to other states in Nigeria.
